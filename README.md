@@ -1,1 +1,1 @@
-# University-Course-Registration-System-C-
+Student Enrollment System C++
